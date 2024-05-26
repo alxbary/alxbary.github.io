@@ -1,2 +1,10 @@
-console.log("Hello, world!");
-console.log("This is a commit from alxbary");
+var asciiMessage = `
+          _|            _|
+  _|_|_|  _|  _|    _|  _|_|_|      _|_|_|  _|  _|_|  _|    _|
+_|    _|  _|    _|_|    _|    _|  _|    _|  _|_|      _|    _|
+_|    _|  _|  _|    _|  _|    _|  _|    _|  _|        _|    _|
+  _|_|_|  _|  _|    _|  _|_|_|      _|_|_|  _|          _|_|_|
+                                                            _|
+                                                        _|_|
+`;
+console.log(asciiMessage)
